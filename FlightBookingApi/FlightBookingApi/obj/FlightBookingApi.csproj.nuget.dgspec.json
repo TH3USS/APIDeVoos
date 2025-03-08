@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\APIVoos\\FlightBookingApi\\FlightBookingApi\\FlightBookingApi.csproj": {}
+    "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\APIVoos\\APIDeVoos\\FlightBookingApi\\FlightBookingApi\\FlightBookingApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\APIVoos\\FlightBookingApi\\FlightBookingApi\\FlightBookingApi.csproj": {
+    "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\APIVoos\\APIDeVoos\\FlightBookingApi\\FlightBookingApi\\FlightBookingApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\APIVoos\\FlightBookingApi\\FlightBookingApi\\FlightBookingApi.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\APIVoos\\APIDeVoos\\FlightBookingApi\\FlightBookingApi\\FlightBookingApi.csproj",
         "projectName": "FlightBookingApi",
-        "projectPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\APIVoos\\FlightBookingApi\\FlightBookingApi\\FlightBookingApi.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\APIVoos\\APIDeVoos\\FlightBookingApi\\FlightBookingApi\\FlightBookingApi.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\APIVoos\\FlightBookingApi\\FlightBookingApi\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Documents\\Projetos\\subir\\APIVoos\\APIDeVoos\\FlightBookingApi\\FlightBookingApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
